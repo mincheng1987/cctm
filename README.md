@@ -1,23 +1,7 @@
 # cctm
-{
-	"ThirdLogin":
-	{
-		"requrl":"https://sso.vip9999.com",
-		"rspurl":"https://sso.vip9999.com/CasManager/index/polling",
-		"weixin":{
-			"id":"wxb0ebb6da1216c5c9",
-			"dataPrefix":"/cas/weixin.jsp?data=",
-			"thridurl":"https://open.weixin.qq.com/connect/qrconnect?appid="			
-		},
-		"qq":{
-			"id":"101226839",
-			"dataPrefix":"/cas/qq.jsp?data=",
-			"thridurl":"https://graph.qq.com/oauth2.0/authorize?client_id="
-		},
-		"weibo":{
-			"id":"3235606156",
-			"dataPrefix":"/cas/weibo.jsp&state=",
-			"thridurl":"https://api.weibo.com/oauth2/authorize?client_id="
-		}
-	}
-}
+目标：实现常用c++技术,分享和讨论成果，逐步提高能力.
+英文全称: C++ commonly technology modules.
+作者: ming.cheng
+
+日志库: log
+基础库: base
